@@ -1,0 +1,45 @@
+{​​​
+
+  "development": {​​​
+
+    "username": "freedbtech_delivereh",
+
+    "password": "thePandemic1985!",
+
+    "database": "freedbtech_delivereh",
+
+    "host": "freedb.tech",
+
+    "dialect": "mysql"
+
+  }​​​,
+
+  "test": {​​​
+
+    "username": "freedbtech_delivereh",
+
+    "password": "thePandemic1985!",
+
+    "database": "freedbtech_delivereh",
+
+    "host": "freedb.tech",
+
+    "dialect": "mysql"
+
+  }​​​,
+
+  "production": {​​​
+
+    "username": "freedbtech_delivereh",
+
+    "password": "thePandemic1985!",
+
+    "database": "freedbtech_delivereh",
+
+    "host": "freedb.tech",
+
+    "dialect": "mysql"
+
+  }​​​
+
+}​​​
